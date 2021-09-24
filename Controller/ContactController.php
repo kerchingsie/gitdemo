@@ -3,8 +3,11 @@
 namespace Controller;
 
 class Controller {
+    public function store() {
+      
+    }
+  
+    public function demo () {   
 
-    public function demo () {
-        
     }
 }
